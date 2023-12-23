@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="eng">
+  <head></head>
+<title>Earth and its environments</title>
+  </head>
+  <body>
+    <header>
+      <h1>Different Environments on Earth</h1>
+      <p>There are different types of environments in earth and every environment is different from each other.Some of them are</p>
+      <li>Desert</li>
+      <li>Tundra</li>
+      <li>forests</li>
+    </header>
+    <main>
+      <h2>Desert</h2>
+      <p>Deserts are dry and hot environment which receive very little rainfall every year so it is not possible for humans and some animals to live there but some managed to survive like
+      <li>Coyotes</li>
+      <li>rattlesnakes</li>
+      <li>scorpions</li>
+      some common examples of deserts are sahara desert, gobi desert, and mojave desert.The plant found on deserts are cactus which can only be found in such a enviroment they are adapted to live in such a environmernt.Here is a picture of desert.</p>
+      <img src="desert.jpg" alt"Desert" width="200" height="100">
+      <h2>Tundra</h2>
+      <p>Tundra are cold and dry place which is frozen all year.They are characterized by permafrost or permenently frozen ground because they are really cold and coverd with ice and snow.Because it is so cold humans can not survive there.The animals living there are
+      <li>Polar bears</li>
+      <li>Artic fox</li>
+      <li>Snowy owl</li>
+      and many more.some common example of tundra are Arctic and Antarctic.Here is an image of tundra region</p>
+      <img src="tundra.jpg" alt"tundra" width="200" height="100">
+      <h2>Forest</h2>
+      <p>forest are hot and humid environments that receive alot of rainfall a year.forest are essential for us because they provide us oxygen which is essential for all living organisms in the world.Many animals make their home in this type of environment because it provides them food and shelter which is all they need the animals which live in such environment are
+      <li>Bears</li>
+      <li>Elephants</li>
+      <li>Tigers</li>
+      <li>Wolves</li>
+      and many more live in forest.some main examples of forests are Rainforests, Alpine forests, Sequoias forests.Here is an image of a forest.</p>
+      <img src="forests.jpg" alt"forest" width="200" height="100">
+    </main>
+  </body>
+  </html>
